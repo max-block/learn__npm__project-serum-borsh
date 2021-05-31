@@ -1,0 +1,1 @@
+https://github.com/project-serum/serum-ts/tree/master/packages/borsh
